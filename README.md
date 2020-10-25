@@ -1,0 +1,2 @@
+# CurrencyConverter
+Terminal-based converter
